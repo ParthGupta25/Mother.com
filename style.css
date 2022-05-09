@@ -1,0 +1,24 @@
+.body_backgorund {
+    background-image: url(hOye.gif);
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    border-color: red;
+}
+
+.thumbnail {
+    height: 400px;
+    width: 500px;
+    border: 7px solid black;
+    padding: 5px;
+}
+
+p {
+    color: green;
+    font-weight: bold;
+}
